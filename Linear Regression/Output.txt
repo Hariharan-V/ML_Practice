@@ -1,0 +1,10 @@
+Fasted Output:
+Linear Regression Using Closed Form
+Elapsed time is 0.000203 seconds.
+Error = 1.5093
+Linear Regression Using Gradient Descent
+Elapsed time is 0.001416 seconds.
+Error = 1.5093
+Linear Regression Using Stochastic Gradient Descent
+Elapsed time is 0.000016 seconds.
+Error = 1.5093
